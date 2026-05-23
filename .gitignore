@@ -1,0 +1,56 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Downloaded music/audio
+*.mp3
+*.flac
+*.wav
+*.m4a
+*.opus
+
+# Downloaded thumbnails/images
+*.webp
+*.jpg
+*.jpeg
+*.png
+
+# FFmpeg binaries
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+
+# Temporary yt-dlp files
+*.part
+*.ytdl
+
+# Metadata/temp files
+*.json
+*.temp
